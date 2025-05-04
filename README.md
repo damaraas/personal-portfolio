@@ -1,7 +1,7 @@
 # personal-portfolio
 
 ## Description
-The **Personal Portfolio** project is a web-based application developed using **HTML** and **CSS** for my self-study purposes. This website contains an example of portofolio.
+The **Personal Portfolio** project is a **responsive** web-based application developed using **HTML** and **CSS** for my self-study purposes. This website contains an example of portofolio.
 
 ## Project Link
 https://roadmap.sh/projects/basic-html-website
