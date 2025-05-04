@@ -4,7 +4,7 @@
 The **Personal Portfolio** project is a **responsive** web-based application developed using **HTML** and **CSS** for my self-study purposes. This website contains an example of portofolio.
 
 ## Project Link
-https://roadmap.sh/projects/basic-html-website
+https://roadmap.sh/projects/portfolio-website
 
 ## Demo Live Link
 https://damaraas.github.io/personal-portfolio/
